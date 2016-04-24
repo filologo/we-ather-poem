@@ -1,4 +1,4 @@
-the rainbow
+the rainbow + color filters 
 
 red
 orange
@@ -7,3 +7,5 @@ blue
 ciano
 green
 purple
+
+They are color's filters numbers.
