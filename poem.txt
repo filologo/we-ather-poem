@@ -6,3 +6,4 @@ yellow
 blue
 ciano
 green
+purple
